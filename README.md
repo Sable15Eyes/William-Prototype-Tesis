@@ -1,5 +1,4 @@
 
-
 Español / Spanish
 
 Este código es un prototipo de una app de una clínica,
