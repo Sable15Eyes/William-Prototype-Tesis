@@ -50,16 +50,6 @@ def correo():
 
       return 'Correo enviado'
 
-
-
-
-
-
-
-
-
-
-
 # Opciones es la llave para la sessiones
 app.secret_key = 'llaveSecreta'
 
@@ -300,8 +290,6 @@ def eliminarCita(id):
     return redirect(url_for('inicioEnfermera'))
 
 # Final de seciones de la enfermera -------------------------------
-
-
 
 
 # Sesion de los Doctores ------------------------------------------
